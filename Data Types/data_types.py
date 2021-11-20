@@ -92,3 +92,14 @@ f"""
         student1: Student
 }
 """
+
+
+"""
+معلومة عن البايثون :
+
+في الحقيقة البايثن ليس لديها اواع اولية لان كل شيء في البايثون 
+يعتبر كائن او نوع مركب
+
+لمعلومات أكثر:
+https://stackoverflow.com/questions/50534394/what-does-it-mean-by-passed-by-assignment
+"""
